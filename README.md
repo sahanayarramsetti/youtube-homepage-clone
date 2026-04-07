@@ -38,7 +38,7 @@ youtube-homepage-clone/
 │ └── (video thumbnail images)
 │ ├── channel-pictures/
 │ └── (channel profile images)
-│ ├── icons/
+├── icons/
 │ └── (UI icons like search, menu, etc.)
 ```
 
